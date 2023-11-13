@@ -1,0 +1,30 @@
+th {
+  text-align: start;
+  color: #050505;
+  font-size: 16px;
+  background-color: #e4e4e4;
+  padding: 12px 24px 12px;
+}
+
+td {
+  padding: 16px 18px 16px 24px;
+  border-bottom: 1px solid #E4E4E4;
+}
+
+.tableStyle {
+  width: 100%;
+  text-align: start;
+  margin-top: 30px;
+}
+
+.userColumn {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 18px;
+}
+
+.arrowAlignMent {
+    display: flex;
+    justify-content: center;
+}

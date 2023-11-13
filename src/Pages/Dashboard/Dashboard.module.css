@@ -1,0 +1,41 @@
+.optionContainer {
+  margin-top: 48px;
+  display: grid;
+}
+
+.option {
+  font-size: 16px;
+  padding: 10px 16px 10px 16px;
+  color: #777676;
+}
+
+.active {
+  font-size: 16px;
+  padding: 10px 16px 10px 16px;
+  color: #4643EE;
+  background-color: #4643EE1A;
+}
+
+.mainContainer {
+  display: grid;
+  padding: 32px 48px 32px;
+  justify-content: space-between;
+  width: 258px;
+  height: 812px;
+  border-right: 1px solid #e4e4e4;
+}
+
+.iconContainer {
+  display: flex;
+  align-items: center;
+}
+
+.userName {
+  color: #050505;
+  font-size: 14px;
+}
+
+.email {
+  font-size: 14px;
+  color: #777676;
+}
